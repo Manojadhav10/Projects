@@ -1,3 +1,5 @@
+# Hr Analytics case study
+
   1. People Charm’, a growing company is facing a high attrition rate among 
     their employees which in turn affects their business due to lack of expertise 
     and experience. 
